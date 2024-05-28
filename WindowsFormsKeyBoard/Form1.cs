@@ -48,6 +48,7 @@ namespace WindowsFormsKeyBoard
             ser1.Points.AddXY(2, 14);
             ser1.Points.AddXY(3, 144);
             ser1.ChartType = SeriesChartType.Line;
+            label1.Text = "adfhdshe";
         }
     }
 }
